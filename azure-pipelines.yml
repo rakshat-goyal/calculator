@@ -12,5 +12,5 @@ steps:
   displayName: Build an image
   inputs:
     repository: rakshat-goyal/calculator
-    command: build
+    command: buildAndPush
     Dockerfile: app/Dockerfile
