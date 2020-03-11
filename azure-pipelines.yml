@@ -13,4 +13,4 @@ steps:
   inputs:
     repository: $(imageName)
     command: build
-    Dockerfile: Source/Tailwind.Traders.Web/Dockerfile
+    Dockerfile: app/Dockerfile
